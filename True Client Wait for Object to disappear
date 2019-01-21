@@ -1,0 +1,7 @@
+1. Use for loop as always true
+for(i=0;true;i++)
+{if(object exists)
+wait 3 sec
+else
+break
+}
